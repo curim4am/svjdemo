@@ -398,7 +398,7 @@ function renderProtokolSimple(m){
     protoSig(m)+'</div>';
 }
 function renderProtokol(m){
-  var variant=state.protoVariant||"full";
+  var variant=state.protoVariant||"simple";
   var doc = variant==="simple" ? renderProtokolSimple(m) : renderProtokolFull(m);
   var sw='<div class="proto-switch">'+
     '<span class="small" style="font-weight:700">Varianta:</span>'+
