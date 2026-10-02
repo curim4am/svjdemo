@@ -1,0 +1,9 @@
+SVJ Buková – DEMO verze
+
+Otevřete index.html v prohlížeči (Chrome, Edge, Firefox, Safari).
+Aplikace se spustí rovnou s ukázkovými daty (vymyšlená jména): vlastníci ve SJM, v podílovém spoluvlastnictví i garáž se čtyřmi spoluvlastníky, 1 proběhlá schůze 16. 4. 2026 (5 usnesení, zmocněnec na plnou moc, zápis) a 1 naplánovaná schůze 12. 11. 2026, na které si vyzkoušíte celý průběh – Příprava, Prezence, Hlasování, Zápis, Protokol. K tomu 7 úkolů v různých stavech.
+
+Demo ukládá změny pod vlastním klíčem, takže nepřepíše skutečná data aplikace ve stejném prohlížeči.
+Tlačítkem „Obnovit demo data“ v horní liště vrátíte demo do původního stavu.
+
+© 2026 curim4am
